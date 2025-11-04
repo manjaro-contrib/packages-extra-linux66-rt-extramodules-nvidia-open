@@ -7,8 +7,8 @@
 _linuxprefix=linux66-rt
 
 pkgname="${_linuxprefix}-nvidia-open"
-pkgver=580.95.05
-pkgrel=4
+pkgver=580.105.08
+pkgrel=1
 pkgdesc="NVIDIA open kernel modules for ${_linuxprefix}"
 arch=('x86_64')
 url="https://www.nvidia.com/"
